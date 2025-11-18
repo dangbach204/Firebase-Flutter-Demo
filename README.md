@@ -279,7 +279,7 @@ Both demos include:
 | File Deletion            | x             | yes           |
 | File Metadata            | Basic         | Detailed      |
 
-## ⚖️ Firebase vs Appwrite Comparison
+## Firebase vs Appwrite Comparison
 
 | Aspect                         | Firebase Storage             | Appwrite Storage    |
 | ------------------------------ | ---------------------------- | ------------------- |
@@ -314,16 +314,6 @@ Both demos include:
 - Scale: Custom pricing
 
 **Verdict:** Appwrite is significantly more cost-effective for small to medium projects.
-
-## Screenshots
-
-_Add screenshots of your app here showing:_
-
-- Image picker interface
-- Upload progress
-- Uploaded image display
-- Error states
-- Success messages
 
 ## Troubleshooting
 
